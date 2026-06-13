@@ -15,7 +15,7 @@
 
 I'm **Bhanu Prakash Akkireddi**, an Electrical and Computer Engineering student at **Amrita Vishwa Vidyapeetham (Amritapuri)** with a GPA of **8.61/10**, obsessed with building AI systems that solve real-world problems — not just notebook demos.
 
-Actively targeting **ML/AI Engineering roles at Big Tech** (Google, Amazon, Microsoft) and building a portfolio that reflects that ambition.
+Actively targeting **ML/AI Engineering roles at Big Tech** (Amazon, Google, Microsoft) and building a portfolio that reflects that ambition.
 
 - 🏗️ **Currently building:** [GigShield](https://github.com/Bhanu101465) — AI-powered parametric income insurance for India's gig delivery workers, with a 2-of-3 corroboration engine for fraud prevention and weather/AQI-based automatic triggers
 - 🤖 **Also shipped:** Multi-agent Restaurant Booking AI & Smart Attendance System (face recognition with KNN & Decision Tree classifiers)
