@@ -70,17 +70,40 @@ Actively targeting **ML/AI Engineering roles at Big Tech** (Google, Amazon, Micr
 
 ---
 
-<!-- SECTION E: GITHUB STATS -->
-## 📊 GitHub Stats
+<!-- SECTION E: PROJECTS SHOWCASE -->
+## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhanu101465&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu101465&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-</div>
+### 🛡️ GigShield — AI Parametric Income Insurance
+> Protecting India's gig delivery workers (Amazon Flex, Flipkart Ekart) from income loss due to weather, AQI, curfews & hub closures
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhanu101465&theme=tokyonight&hide_border=true" />
-</div>
+- 🤖 **2-of-3 corroboration engine** — cross-checks multiple data sources to prevent fraud
+- ⚡ **Parametric triggers** — automatic payouts based on weather/AQI/curfew conditions
+- 🏆 Built at **Guidewire DEVTrails 2026** hackathon
+- **Stack:** `Python` `Flask` `MySQL` `LangGraph`
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhanu101465)
+
+---
+
+### 🎓 Smart Attendance System — Face Recognition ML
+> Automated attendance using machine learning face recognition — no manual roll calls
+
+- 👁️ **OpenCV** for real-time face detection
+- 📊 **Decision Tree: 62.5% accuracy** vs KNN: 53.1% on real dataset
+- 📁 CSV-based attendance logging
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhanu101465)
+
+---
+
+### 🍽️ Restaurant Booking AI Agent
+> A conversational multi-agent system that handles restaurant reservations end-to-end
+
+- 🤝 Multi-agent architecture for booking, availability & confirmation
+- 💬 Natural language interface — just describe what you want
+- **Stack:** `Python` `LangChain`
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhanu101465)
 
 ---
 
@@ -108,4 +131,3 @@ I'm always open to discussing **ML/AI projects, internship opportunities, or hac
 <div align="center">
   <i>⚡ "Build things that solve real problems. The rest follows." ⚡</i>
 </div>
-
